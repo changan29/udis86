@@ -39,7 +39,7 @@
       <HeaderFiles Include="..\udis86.h" />
       <HeaderUdisFiles Include="..\libudis86/types.h" />
       <HeaderUdisFiles Include="..\libudis86/itab.h" />
-      <HeaderUdisFiles Include="..\libudis86/itab.h" />
+      <HeaderUdisFiles Include="..\libudis86/extern.h" />
     </ItemGroup>
     
     <MakeDir Directories = "$(BuildDir)\Include"
